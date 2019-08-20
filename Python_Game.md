@@ -1,11 +1,11 @@
 # Python Game メモ
-## Git Command
 ## Python Library
-
+## Gitのレポジトリでソースファイルを管理
+- マークダウンファイルでライブラリーを要約
 - ローカルリポジトリを作る
-    - git init
+    - [x] git init
 - ファイルの状態を確認
-    - git status
+    - [x] git status
 - ファイルを登録する
     - git add
 
